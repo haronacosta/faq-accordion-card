@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/faq-accordion-card/static/css/main.5fa79102.chunk.css",
+    "main.js": "/faq-accordion-card/static/js/main.90842b99.chunk.js",
+    "main.js.map": "/faq-accordion-card/static/js/main.90842b99.chunk.js.map",
+    "runtime-main.js": "/faq-accordion-card/static/js/runtime-main.ba8ad2d2.js",
+    "runtime-main.js.map": "/faq-accordion-card/static/js/runtime-main.ba8ad2d2.js.map",
+    "static/css/2.679831fc.chunk.css": "/faq-accordion-card/static/css/2.679831fc.chunk.css",
+    "static/js/2.7b261819.chunk.js": "/faq-accordion-card/static/js/2.7b261819.chunk.js",
+    "static/js/2.7b261819.chunk.js.map": "/faq-accordion-card/static/js/2.7b261819.chunk.js.map",
+    "index.html": "/faq-accordion-card/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/faq-accordion-card/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.5fa79102.chunk.css.map": "/faq-accordion-card/static/css/main.5fa79102.chunk.css.map",
+    "static/js/2.7b261819.chunk.js.LICENSE.txt": "/faq-accordion-card/static/js/2.7b261819.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.f51e07a2.svg": "/faq-accordion-card/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/faq-accordion-card/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/faq-accordion-card/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/faq-accordion-card/static/media/illustration-woman-online-desktop.843eb114.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8ad2d2.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.7b261819.chunk.js",
+    "static/css/main.5fa79102.chunk.css",
+    "static/js/main.90842b99.chunk.js"
+  ]
+}
