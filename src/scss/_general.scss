@@ -1,0 +1,32 @@
+.App {
+  align-items: center;
+  background-color: $soft-blue;
+  background-image: linear-gradient(
+    0deg,
+    hsl(240, 73%, 65%),
+    hsl(273, 75%, 66%)
+  );
+  display: flex;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 12px;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.page-wrapper {
+  background-color: #fff;
+  border-radius: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 500px;
+  width: 70%;
+  max-width: 1000px;
+}
+
+@media only screen and (min-width: 720px) {
+  .page-wrapper {
+    flex-direction: row;
+  }
+}
